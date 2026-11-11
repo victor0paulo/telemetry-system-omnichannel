@@ -1,0 +1,14 @@
+**/node_modules/
+**/vendor/
+**/venv/
+**/.venv/
+**/__pycache__/
+**/.env
+**/.env.*
+!**/.env.example
+**/dist/
+**/build/
+**/.agents/
+**/.claude/
+**/.cursor/
+**/.devin/
