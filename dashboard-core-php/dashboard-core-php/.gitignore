@@ -1,6 +1,7 @@
 *.log
 .DS_Store
 .env
+.env.example
 .env.backup
 .env.production
 .phpactor.json
@@ -25,3 +26,13 @@ _ide_helper.php
 Homestead.json
 Homestead.yaml
 Thumbs.db
+composer.json
+composer.lock
+vite.config.js 
+.npmrc
+.editorconfig
+.htaccess
+/database
+config
+phpunit.xml
+README.md
