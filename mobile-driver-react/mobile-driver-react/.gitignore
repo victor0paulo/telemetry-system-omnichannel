@@ -40,7 +40,7 @@ yarn-error.*
 /ios
 /android
 
-/node_modules
+
 LICENSE
 AGENTS.md 
-node_modules/
+
